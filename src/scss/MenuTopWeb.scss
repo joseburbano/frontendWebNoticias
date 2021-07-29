@@ -1,0 +1,17 @@
+@import "../scss/index.scss";
+
+.menu-top-web {
+  display: flex;
+  border: 3px solid $background-grey-dark;
+  
+  &__center-web {
+    &-logo {
+      width: 200px;
+      padding: 0px 2px;
+    }
+  }
+
+  &__right-web {
+    position: absolute;
+  }
+}

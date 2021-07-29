@@ -1,0 +1,14 @@
+@import "./index.scss";
+
+.navigation-footer {
+
+  padding: 0;
+  h3 {
+    color: $primary-color;
+    font-weight: bold;
+  }
+  .logo-tienda{
+    width: 200px;
+    height: 100px;
+  }
+}

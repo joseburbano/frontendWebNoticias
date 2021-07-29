@@ -1,0 +1,19 @@
+@import './index.scss';
+
+
+.web-sider-web {
+    position: fixed;
+    left: 0;
+    overflow: auto;
+    height:100vh;
+    background-color: $background-grey-light;
+
+    Button {
+        margin: 16px;
+        background-color: $background-grey;
+        
+    }
+    Menu {
+        background-color: $background-grey-light;
+    }
+}
